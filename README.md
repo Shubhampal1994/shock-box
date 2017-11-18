@@ -1,2 +1,3 @@
 # shock-box
 The shock-box is a repository which will contain codes or code snippets of varying computer languages like Python, Django, HTML, CSS, SQL...
+This is the branch of Shock-box.
